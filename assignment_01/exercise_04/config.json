@@ -1,0 +1,7 @@
+{
+    "type":"singleChoice",
+    "solutions": [2],
+    "options": [1, 2, 3, 4],
+    "maxScore": 1,
+    "maxSubmits": 5
+}

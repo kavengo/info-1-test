@@ -1,0 +1,16 @@
+{
+    "title": "Non-Technical Python Introduction",
+    "description": "Example Repository: Non Technical Pyhton Introduction Course",
+    "startDate":"2019-06-29",
+    "endDate":"2019-11-15",
+    "owner": "dr.prof@uzh.ch",
+    "assistants": [
+        "ludwig.abeille@uzh.ch"
+    ],
+    "students": [
+        "carl-friedlich.abel@uzh.ch",
+        "philippine.schick@uzh.ch",
+        "johann.schop@uzh.ch",
+        "philip.hofmann@uzh.ch"
+    ]
+}

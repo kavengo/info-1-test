@@ -1,0 +1,6 @@
+{
+    "type":"code",
+    "language":"python",
+    "maxSubmits": 3,
+    "maxScore": 5
+}
